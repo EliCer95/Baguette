@@ -9,10 +9,12 @@ body {
 }
 
 footer {
-  display: flex;
-  justify-content: space-evenly;
+  text-align: center;
 }
 
+footer a {
+  margin: 20px;
+}
 p {
   text-align: center;
 }
